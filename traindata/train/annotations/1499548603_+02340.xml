@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke</folder>
+	<filename>1499548603_+02340.jpg</filename>
+	<path>/Users/haohe/Desktop/Insight/Fire/challenge1/smoke/1499548603_+02340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1401</xmin>
+			<ymin>207</ymin>
+			<xmax>2819</xmax>
+			<ymax>1122</ymax>
+		</bndbox>
+	</object>
+</annotation>
